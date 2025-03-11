@@ -8,12 +8,18 @@ YouTube-Ex-Dev: 19.44.39
 -Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) module to detach patched apps from being updated by Play Store
   
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
-Patches: inotia00/patches-5.4.1.rvp  
-[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.1)
+Patches: inotia00/patches-5.4.2.rvp  
+[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.2)
 
-Patches: inotia00/patches-5.4.2-dev.1.rvp  
-[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.2-dev.1)
+Patches: inotia00/patches-5.4.2.rvp  
+[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.2)
+
+Patches: inotia00/patches-5.4.2.rvp  
+[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.2)
+
+Patches: inotia00/patches-5.4.2.rvp  
+[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.4.2)
 
 CLI: j-hc/revanced-cli-5.0.0-all.jar  
-Patches: ReVanced/patches-5.13.0.rvp  
-[🖇 - Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.13.0)  
+Patches: ReVanced/patches-5.14.0.rvp  
+[🖇 - Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.14.0)  
