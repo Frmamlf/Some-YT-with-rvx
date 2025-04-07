@@ -1,5 +1,6 @@
 Music-Ex: 8.05.51  
 Music-Ex-dev: 8.05.51  
+TikTok: 36.5.4  
 YouTube-Ex: 19.47.53  
 YouTube-Ex-Dev: 19.47.53  
 
@@ -11,13 +12,8 @@ Patches: inotia00/patches-5.6.2.rvp
 [🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
 
 Patches: inotia00/patches-5.6.2.rvp  
-[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
-
 Patches: inotia00/patches-5.6.2.rvp  
-[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
-
 Patches: inotia00/patches-5.6.2.rvp  
-[🖇 - Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)  
-
-Skipped:  
-Patches: ReVanced/patches-5.18.0.rvp          
+CLI: j-hc/revanced-cli-5.0.0-all.jar  
+Patches: ReVanced/patches-5.18.0.rvp  
+[🖇 - Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v5.18.0)  
