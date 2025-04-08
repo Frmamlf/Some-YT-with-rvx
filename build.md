@@ -1,5 +1,6 @@
 Music-Ex: 8.05.51  
 Music-Ex-dev: 8.05.51  
+Spotify: 9.0.36.147  
 TikTok: 36.5.4  
 YouTube-Ex: 19.47.53  
 YouTube-Ex-Dev: 19.47.53  
